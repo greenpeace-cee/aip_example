@@ -1,0 +1,30 @@
+[2024-01-12 12:37:52][P40] [40] Starting process [40]
+[2024-01-12 12:37:52][P40] [40] Finished process [40] after processing 0 records, 11 in total on this source()
+[2024-01-12 12:37:52][P40] [40] Process [40] stored/suspended.
+[2024-01-12 13:48:45][P41] [41] Starting process [41]
+[2024-01-12 13:48:45][P41] [41] Finished process [41] after processing 0 records, 0 in total on this source()
+[2024-01-12 13:48:45][P41] [41] Process [41] stored/suspended.
+[2024-01-12 13:49:08][P41] [41] Starting process [41]
+[2024-01-12 13:49:08][P41] [41] Investigating file './aip/inbox/1.csv'...
+[2024-01-12 13:49:08][P41] [41] Moved file from ./aip/inbox/1.csv to ./aip/processing/20240112134908_27832616939ea5a318f5_1.csv for processing.,
+[2024-01-12 13:49:08][P41] [41] Reading source ./aip/processing/20240112134908_27832616939ea5a318f5_1.csv
+[2024-01-12 13:49:08][P41] [41] Opened new source: ./aip/processing/20240112134908_27832616939ea5a318f5_1.csv
+[2024-01-12 13:49:08][P41] [41] Reader initialised with source: ./aip/processing/20240112134908_27832616939ea5a318f5_1.csv
+[2024-01-12 13:49:08][P41] [41] Moved file from ./aip/processing/20240112134908_27832616939ea5a318f5_1.csv to ./aip/processed/20240112134908_27832616939ea5a318f5_1.csv to mark as processed.,
+[2024-01-12 13:49:08][P41] [41] Finished process [41] after processing 11 records, 11 in total on this source(./aip/processing/20240112134908_27832616939ea5a318f5_1.csv)
+[2024-01-12 13:49:08][P41] [41] Process [41] stored/suspended.
+[2024-01-12 13:49:38][P41] [41] Starting process [41]
+[2024-01-12 13:49:38][P41] [41] Investigating file './aip/inbox/2.csv'...
+[2024-01-12 13:49:38][P41] [41] Moved file from ./aip/inbox/2.csv to ./aip/processing/20240112134938_e06cfe5c5c1fd17569ba_2.csv for processing.,
+[2024-01-12 13:49:38][P41] [41] Reading source ./aip/processing/20240112134938_e06cfe5c5c1fd17569ba_2.csv
+[2024-01-12 13:49:38][P41] [41] Opened new source: ./aip/processing/20240112134938_e06cfe5c5c1fd17569ba_2.csv
+[2024-01-12 13:49:38][P41] [41] Reader initialised with source: ./aip/processing/20240112134938_e06cfe5c5c1fd17569ba_2.csv
+[2024-01-12 13:49:38][P41] [41] Moved file from ./aip/processing/20240112134938_e06cfe5c5c1fd17569ba_2.csv to ./aip/processed/20240112134938_e06cfe5c5c1fd17569ba_2.csv to mark as processed.,
+[2024-01-12 13:49:38][P41] [41] Finished process [41] after processing 4 records, 4 in total on this source(./aip/processing/20240112134938_e06cfe5c5c1fd17569ba_2.csv)
+[2024-01-12 13:49:38][P41] [41] Process [41] stored/suspended.
+[2024-01-12 13:50:16][P41] [41] Starting process [41]
+[2024-01-12 13:50:16][P41] [41] Finished process [41] after processing 0 records, 4 in total on this source()
+[2024-01-12 13:50:16][P41] [41] Process [41] stored/suspended.
+[2024-01-12 13:50:18][P41] [41] Starting process [41]
+[2024-01-12 13:50:18][P41] [41] Finished process [41] after processing 0 records, 4 in total on this source()
+[2024-01-12 13:50:18][P41] [41] Process [41] stored/suspended.

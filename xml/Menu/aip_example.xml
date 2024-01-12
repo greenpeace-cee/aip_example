@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/aip-example-page</path>
+    <page_callback>CRM_AipExample_Page_AipExamplePage</page_callback>
+    <title>AipExamplePage</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
